@@ -21,8 +21,7 @@ to get information on query mutations supported by GISAID database data
 optional arguments:
   -h, --help            show this help message and exit
   -m MUTATION_NAME, --mutation_name MUTATION_NAME
-                        Mutation name to query (e.g. s:del69/70, s:d614g,
-                        orf1a:del17)
+                        Mutation name to query (e.g. s:del69/70, s:d614g,orf1a:del17)
 ```
 
 
